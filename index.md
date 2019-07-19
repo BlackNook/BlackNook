@@ -38,4 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### Support
 
-Support Email : <p><a href="MAILTO:tsai-daniel@hotmail.com">[Email]</a></p>
+Support Email : <a href="MAILTO:tsai-daniel@hotmail.com">[Email]</a>
