@@ -36,8 +36,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-### Test
+### Support
 
-App Support Email [Email](mailto:tsai-daniel@hotmail.com]
-
-App Support Email <p><a href="MAILTO:tsai-daniel@hotmail.com">MAILTO:tsai-daniel@hotmail.com</a></p>
+Support Email : <p><a href="MAILTO:tsai-daniel@hotmail.com">[Email]</a></p>
