@@ -39,3 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ### Test
 
 App Support Email [Email](mailto:tsai-daniel@hotmail.com]
+
+App Support Email <p><a href="MAILTO:tsai-daniel@hotmail.com">MAILTO:tsai-daniel@hotmail.com</a></p>
