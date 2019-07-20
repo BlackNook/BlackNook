@@ -20,3 +20,19 @@ body {
 .portfolio-item {
   margin-bottom: 30px;
 }
+
+.carousel-caption {
+    background: rgba(30%, 30%, 30%, 0.3);
+}
+
+/*
+.carousel-caption {
+    background: none !important;
+}
+*/
+ 
+/*
+.carousel-caption {
+    color: #040404;
+}
+*/
